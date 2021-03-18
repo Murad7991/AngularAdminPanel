@@ -1,0 +1,14 @@
+.open {
+  margin-right: 10px;
+}
+ a {
+   :hover {
+     color: red!important;
+   }
+ }
+
+@media only screen and (max-width: 600px) {
+  .mediaBrkPoint {
+    display: none;
+  }
+}
